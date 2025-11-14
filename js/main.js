@@ -1,0 +1,1 @@
+document.getElementById('contactBtn').onclick=()=>{document.getElementById('popupForm').style.display='flex'};
